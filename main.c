@@ -1,6 +1,6 @@
-#include "./HAL/Keypad/keypad.h"
-#include "./MCAL/Timers/Timers.h"
-#include "./HAL/LCD/LCD.h"
+#include "./HAL/keypad.h"
+#include "./MCAL/Timers.h"
+#include "./HAL/LCD.h"
 
 int main(void){
 	
